@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level>
+	<tileset filename="lvl2.lvl"/>
+	<sounds>
+		<soundtrack filename="\\Sound\\ScummBar.mp3"/>
+	</sounds>
+	<layer filename="cave1_neu.png">
+		<scrollSpeed>1.2</scrollSpeed>
+	</layer>
+	<upperlayer filename="">
+		<scrollSpeed>0</scrollSpeed>
+	</upperlayer>
+	<scoreBoard filename="digits21818.png">
+		<xPos>778</xPos>
+		<yPos>10</yPos>
+		<digitWidth>18</digitWidth>
+		<digitHeight>18</digitHeight>
+	</scoreBoard>
+	<lifeBoard filename="digits1818.png">
+		<xPos>10</xPos>
+		<yPos>10</yPos>
+		<digitWidth>18</digitWidth>
+		<digitHeight>18</digitHeight>
+	</lifeBoard>
+	<player filename="anne1_klein.png">
+		<numFrames>3</numFrames>
+		<frameWidth>63</frameWidth>
+		<frameHeight>60</frameHeight>
+		<positionX>58</positionX>
+		<positionY>220</positionY>
+		<jumpForceY>0</jumpForceY>
+		<moveForceX>0</moveForceX>
+		<maxVelRun>0</maxVelRun>
+		<maxVelFall>0</maxVelFall>
+		<fps>12</fps>
+		<sounds>
+			<shoot filename="\\Sound\\bubbleshot.wav"/>
+			<death filename=".wav"/>
+			<hit filename=".wav"/>
+		</sounds>
+	</player>
+	<evolve filename="anne2_klein.png">
+		<numFrames>3</numFrames>
+		<frameWidth>90</frameWidth>
+		<frameHeight>85</frameHeight>
+		<positionX>58</positionX>
+		<positionY>220</positionY>
+		<jumpForceY>0</jumpForceY>
+		<moveForceX>0</moveForceX>
+		<maxVelRun>0</maxVelRun>
+		<maxVelFall>0</maxVelFall>
+		<fps>6</fps>
+		<sounds>
+			<shoot filename="\\Sound\\bubbleshot.wav"/>
+			<death filename=".wav"/>
+			<hit filename=".wav"/>
+		</sounds>
+	</evolve>
+	<bot>
+		<type>11</type>
+		<positionX>1800</positionX>
+		<positionY>553</positionY>
+		<fps>8</fps>
+	</bot>
+	<bot>
+		<type>4</type>
+		<positionX>534</positionX>
+		<positionY>243</positionY>
+		<fps>8</fps>
+	</bot>
+	<bot>
+		<type>4</type>
+		<positionX>1089</positionX>
+		<positionY>555</positionY>
+		<fps>8</fps>
+	</bot>
+	<bot>
+		<type>2</type>
+		<positionX>1947</positionX>
+		<positionY>173</positionY>
+		<fps>8</fps>
+	</bot>
+	<bot>
+		<type>7</type>
+		<positionX>820</positionX>
+		<positionY>235</positionY>
+		<fps>8</fps>
+	</bot>
+	<bot>
+		<type>16</type>
+		<positionX>1314</positionX>
+		<positionY>74</positionY>
+		<fps>8</fps>
+	</bot>
+	<bot>
+		<type>9</type>
+		<positionX>1383</positionX>
+		<positionY>509</positionY>
+		<fps>8</fps>
+	</bot>
+	<bot>
+		<type>9</type>
+		<positionX>1614</positionX>
+		<positionY>409</positionY>
+		<fps>8</fps>
+	</bot>
+	<bot>
+		<type>7</type>
+		<positionX>1503</positionX>
+		<positionY>494</positionY>
+		<fps>8</fps>
+	</bot>
+	<bot>
+		<type>15</type>
+		<positionX>691</positionX>
+		<positionY>462</positionY>
+		<fps>8</fps>
+	</bot>
+	<bot>
+		<type>15</type>
+		<positionX>1235</positionX>
+		<positionY>352</positionY>
+		<fps>8</fps>
+	</bot>
+	<boss>
+		<type>0</type>
+		<positionX>2025</positionX>
+		<positionY>571</positionY>
+		<fps>8</fps>
+	</boss>
+	<bot>
+		<type>3</type>
+		<positionX>1183</positionX>
+		<positionY>81</positionY>
+		<fps>8</fps>
+	</bot>
+	<stone filename="stone.png">
+		<numFrames>1</numFrames>
+		<frameWidth>24</frameWidth>
+		<frameHeight>24</frameHeight>
+		<positionX>1496</positionX>
+		<positionY>752</positionY>
+		<fps>8</fps>
+		<sounds>
+			<collect filename="\\Sound\\LOZ_Shield.wav"/>
+		</sounds>
+	</stone>
+	<coin filename="new_coin.png">
+		<numFrames>10</numFrames>
+		<frameWidth>24</frameWidth>
+		<frameHeight>24</frameHeight>
+		<positionX>1962</positionX>
+		<positionY>198</positionY>
+		<fps>5</fps>
+		<sounds>
+			<collect filename="\\Sound\\LOZ_Shield.wav"/>
+		</sounds>
+	</coin>
+	<lightning filename="lightning.png">
+		<numFrames>10</numFrames>
+		<frameWidth>24</frameWidth>
+		<frameHeight>24</frameHeight>
+		<positionX>637</positionX>
+		<positionY>602</positionY>
+		<fps>5</fps>
+		<sounds>
+			<collect filename="\\Sound\\LOZ_Shield.wav"/>
+		</sounds>
+	</lightning>
+	<heart filename="heart.png">
+		<numFrames>8</numFrames>
+		<frameWidth>27</frameWidth>
+		<frameHeight>24</frameHeight>
+		<positionX>1002</positionX>
+		<positionY>294</positionY>
+		<fps>5</fps>
+		<sounds>
+			<collect filename="\\Sound\\LOZ_Shield.wav"/>
+		</sounds>
+	</heart>
+	<heart filename="heart.png">
+		<numFrames>8</numFrames>
+		<frameWidth>27</frameWidth>
+		<frameHeight>24</frameHeight>
+		<positionX>615</positionX>
+		<positionY>56</positionY>
+		<fps>5</fps>
+		<sounds>
+			<collect filename="\\Sound\\LOZ_Shield.wav"/>
+		</sounds>
+
+	</heart>
+	<nextlevel filename="lvl3.xml"/>
+</level>

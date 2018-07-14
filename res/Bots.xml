@@ -1,0 +1,442 @@
+<bot>
+
+   <Boss_Roboterfisch>
+    <xSpeed>0</xSpeed>
+    <ySpeed>0</ySpeed>
+    <amplitude>5</amplitude>
+    <freq>0.5</freq>
+    <isStatic>false</isStatic>
+    <isAttacking>true</isAttacking>
+    <swingX>false</swingX>
+    <swingY>false</swingY>
+    <firerate>1.5</firerate>
+    <maxHealth>450</maxHealth>
+    <points>2500</points>
+    <attackdmg>15</attackdmg>
+    <kollisionsschaden>10</kollisionsschaden>
+    <dmgOnCollisionP>0</dmgOnCollisionP>
+    <dmgOnCollisionE>0</dmgOnCollisionE>
+    <sounds>
+      <hit filename="\\Sound\\splash.wav"/>
+      <death filename="\\Sound\\splash.wav"/>
+    </sounds>
+   </Boss_Roboterfisch>
+   
+  <Boss_Tentakel>
+    <xSpeed>0</xSpeed>
+    <ySpeed>0</ySpeed>
+    <amplitude>0</amplitude>
+    <freq>0.5</freq>
+    <isStatic>false</isStatic>
+    <isAttacking>true</isAttacking>
+    <swingX>false</swingX>
+    <swingY>false</swingY>
+    <firerate>1.5</firerate>
+    <maxHealth>300</maxHealth>
+    <points>5000</points>
+    <attackdmg>12</attackdmg>
+    <kollisionsschaden>15</kollisionsschaden>
+    <dmgOnCollisionP>0</dmgOnCollisionP>
+    <dmgOnCollisionE>0</dmgOnCollisionE>
+     <sounds>
+      <hit filename="\\Sound\\splash.wav"/>
+      <death filename="\\Sound\\splash.wav"/>
+    </sounds>
+  </Boss_Tentakel>
+  
+  <Bot_Hai>
+    <xSpeed>100</xSpeed>
+    <ySpeed>0</ySpeed>
+    <amplitude>30</amplitude>
+    <freq>0.8</freq>
+    <isStatic>false</isStatic>
+    <isAttacking>false</isAttacking>
+    <swingX>false</swingX>
+    <swingY>true</swingY>
+    <firerate>0</firerate>
+    <maxHealth>26</maxHealth>
+    <points>100</points>
+    <attackdmg>0</attackdmg>
+    <kollisionsschaden>15</kollisionsschaden>
+    <dmgOnCollisionP>0</dmgOnCollisionP>
+    <dmgOnCollisionE>0</dmgOnCollisionE>
+     <sounds>
+      <hit filename="\\Sound\\splash.wav"/>
+      <death filename="\\Sound\\splash.wav"/>
+     </sounds>
+  </Bot_Hai>
+  
+  <Bot_Krabbe>
+    <xSpeed>50</xSpeed>
+    <ySpeed>30</ySpeed>
+    <amplitude>0</amplitude>
+    <freq>1</freq>
+    <isStatic>false</isStatic>
+    <isAttacking>false</isAttacking>
+    <swingX>true</swingX>
+    <swingY>false</swingY>
+    <firerate>0</firerate>
+    <maxHealth>30</maxHealth>
+    <points>80</points>
+    <attackdmg>10</attackdmg>
+    <kollisionsschaden>20</kollisionsschaden>
+    <dmgOnCollisionP>0</dmgOnCollisionP>
+    <dmgOnCollisionE>0</dmgOnCollisionE>
+     <sounds>
+      <hit filename="\\Sound\\splash.wav"/>
+      <death filename="\\Sound\\splash.wav"/>
+    </sounds>
+  </Bot_Krabbe>
+  
+  <Bot_Kugelfisch>
+    <xSpeed>0</xSpeed>
+    <ySpeed>0</ySpeed>
+    <amplitude>80</amplitude>
+    <freq>0.4</freq>
+    <isStatic>false</isStatic>
+    <isAttacking>true</isAttacking>
+    <swingX>true</swingX>
+    <swingY>true</swingY>
+    <firerate>1</firerate>
+    <maxHealth>40</maxHealth>
+    <points>40</points>
+    <attackdmg>10</attackdmg>
+    <kollisionsschaden>30</kollisionsschaden>
+    <dmgOnCollisionP>0</dmgOnCollisionP>
+    <dmgOnCollisionE>0</dmgOnCollisionE>
+     <sounds>
+      <hit filename="\\Sound\\splash.wav"/>
+      <death filename="\\Sound\\splash.wav"/>
+    </sounds>
+  </Bot_Kugelfisch>
+
+  <Bot_Aal>
+  <xSpeed>50</xSpeed>
+  <ySpeed>0</ySpeed>
+  <amplitude>20</amplitude>
+  <freq>0.7</freq>
+  <isStatic>false</isStatic>
+  <isAttacking>false</isAttacking>
+  <swingX>false</swingX>
+  <swingY>true</swingY>
+  <firerate>0</firerate>
+  <maxHealth>10</maxHealth>
+  <points>30</points>
+  <attackdmg>10</attackdmg>
+  <kollisionsschaden>2</kollisionsschaden>
+  <dmgOnCollisionP>0</dmgOnCollisionP>
+  <dmgOnCollisionE>0</dmgOnCollisionE>
+  <sounds>
+   <hit filename="\\Sound\\splash.wav"/>
+   <death filename="\\Sound\\splash.wav"/>
+  </sounds>
+  </Bot_Aal>
+
+  <Bot_Meerjungfrau>
+    <xSpeed>20</xSpeed>
+    <ySpeed>0</ySpeed>
+    <amplitude>50</amplitude>
+    <freq>0.4</freq>
+    <isStatic>false</isStatic>
+    <isAttacking>false</isAttacking>
+    <swingX>false</swingX>
+    <swingY>true</swingY>
+    <firerate>0</firerate>
+    <maxHealth>1</maxHealth>
+    <points>0</points>
+    <attackdmg>0</attackdmg>
+    <kollisionsschaden>0</kollisionsschaden>
+    <dmgOnCollisionP>0</dmgOnCollisionP>
+    <dmgOnCollisionE>0</dmgOnCollisionE>
+     <sounds>
+      <hit filename="\\Sound\\splash.wav"/>
+      <death filename="\\Sound\\splash.wav"/>
+    </sounds>
+  </Bot_Meerjungfrau>
+  
+  <Bot_Mine>
+    <xSpeed>0</xSpeed>
+    <ySpeed>0</ySpeed>
+    <amplitude>100</amplitude>
+    <freq>0.2</freq>
+    <isStatic>true</isStatic>
+    <isAttacking>false</isAttacking>
+    <swingX>false</swingX>
+    <swingY>true</swingY>
+    <firerate>0</firerate>
+    <maxHealth>10</maxHealth>
+    <points>90</points>
+    <attackdmg>0</attackdmg>
+    <kollisionsschaden>50</kollisionsschaden>
+    <dmgOnCollisionP>0</dmgOnCollisionP>
+    <dmgOnCollisionE>0</dmgOnCollisionE>
+     <sounds>
+      <hit filename="\\Sound\\splash.wav"/>
+      <death filename="\\Sound\\splash.wav"/>
+    </sounds>
+  </Bot_Mine>
+  
+  <Bot_mov_Boot>
+    <xSpeed>40</xSpeed>
+    <ySpeed>0</ySpeed>
+    <amplitude>5</amplitude>
+    <freq>0.3</freq>
+    <isStatic>false</isStatic>
+    <isAttacking>true</isAttacking>
+    <swingX>false</swingX>
+    <swingY>true</swingY>
+    <firerate>1.9</firerate>
+     <maxHealth>50</maxHealth>
+    <points>120</points>
+    <attackdmg>20</attackdmg>
+    <kollisionsschaden>30</kollisionsschaden>
+    <dmgOnCollisionP>0</dmgOnCollisionP>
+    <dmgOnCollisionE>0</dmgOnCollisionE>
+     <sounds>
+      <hit filename="\\Sound\\splash.wav"/>
+      <death filename="\\Sound\\splash.wav"/>
+    </sounds>
+  </Bot_mov_Boot>
+  
+  <Bot_Muschel>
+    <xSpeed>0</xSpeed>
+    <ySpeed>0</ySpeed>
+    <amplitude>100</amplitude>
+    <freq>0.2</freq>
+    <isStatic>true</isStatic>
+    <isAttacking>true</isAttacking>
+    <swingX>false</swingX>
+    <swingY>true</swingY>
+    <firerate>4.5</firerate>
+     <maxHealth>1</maxHealth>
+    <points>0</points>
+    <attackdmg>0</attackdmg>
+    <kollisionsschaden>20</kollisionsschaden>
+    <dmgOnCollisionP>0</dmgOnCollisionP>
+    <dmgOnCollisionE>0</dmgOnCollisionE>
+     <sounds>
+      <hit filename="\\Sound\\splash.wav"/>
+      <death filename="\\Sound\\splash.wav"/>
+    </sounds>
+  </Bot_Muschel>
+  
+  <Bot_Qualle>
+    <xSpeed>0</xSpeed>
+    <ySpeed>-40</ySpeed>
+    <amplitude>25</amplitude>
+    <freq>0.3</freq>
+    <isStatic>false</isStatic>
+    <isAttacking>false</isAttacking>
+    <swingX>true</swingX>
+    <swingY>false</swingY>
+    <firerate>0</firerate>
+    <maxHealth>25</maxHealth>
+    <points>75</points>
+    <attackdmg>0</attackdmg>
+    <kollisionsschaden>22</kollisionsschaden>
+    <dmgOnCollisionP>0</dmgOnCollisionP>
+    <dmgOnCollisionE>0</dmgOnCollisionE>
+     <sounds>
+      <hit filename="\\Sound\\splash.wav"/>
+      <death filename="\\Sound\\splash.wav"/>
+    </sounds>
+  </Bot_Qualle>
+  
+  <Bot_Schlange_klein>
+    <xSpeed>40</xSpeed>
+    <ySpeed>0</ySpeed>
+    <amplitude>10</amplitude>
+    <freq>1</freq>
+    <isStatic>false</isStatic>
+    <isAttacking>false</isAttacking>
+    <swingX>false</swingX>
+    <swingY>true</swingY>
+    <firerate>5</firerate>
+    <maxHealth>10</maxHealth>
+    <points>30</points>
+    <attackdmg>8</attackdmg>
+    <kollisionsschaden>10</kollisionsschaden>
+    <dmgOnCollisionP>0</dmgOnCollisionP>
+    <dmgOnCollisionE>0</dmgOnCollisionE>
+     <sounds>
+      <hit filename="\\Sound\\splash.wav"/>
+      <death filename="\\Sound\\splash.wav"/>
+    </sounds>
+  </Bot_Schlange_klein>
+  
+   <Bot_Schlange>
+    <xSpeed>50</xSpeed>
+    <ySpeed>0</ySpeed>
+    <amplitude>15</amplitude>
+    <freq>1</freq>
+    <isStatic>false</isStatic>
+    <isAttacking>true</isAttacking>
+    <swingX>false</swingX>
+    <swingY>true</swingY>
+    <firerate>1.5</firerate>
+    <maxHealth>30</maxHealth>
+    <points>16</points>
+    <attackdmg>18</attackdmg>
+    <kollisionsschaden>20</kollisionsschaden>
+    <dmgOnCollisionP>0</dmgOnCollisionP>
+    <dmgOnCollisionE>0</dmgOnCollisionE>
+     <sounds>
+      <hit filename="\\Sound\\splash.wav"/>
+      <death filename="\\Sound\\splash.wav"/>
+    </sounds>
+  </Bot_Schlange>
+
+  <Bot_Schwertfisch>
+    <xSpeed>0</xSpeed>
+    <ySpeed>0</ySpeed>
+    <amplitude>0</amplitude>
+    <freq>0.0</freq>
+    <isStatic>false</isStatic>
+    <isAttacking>false</isAttacking>
+    <swingX>false</swingX>
+    <swingY>false</swingY>
+    <firerate>0</firerate>
+    <maxHealth>75</maxHealth>
+    <points>100</points>
+    <attackdmg>0</attackdmg>
+    <kollisionsschaden>33</kollisionsschaden>
+    <dmgOnCollisionP>0</dmgOnCollisionP>
+    <dmgOnCollisionE>0</dmgOnCollisionE>
+     <sounds>
+      <hit filename="\\Sound\\splash.wav"/>
+      <death filename="\\Sound\\splash.wav"/>
+    </sounds>
+  </Bot_Schwertfisch>
+  
+  <Bot_Seeigel>
+    <xSpeed>0</xSpeed>
+    <ySpeed>0</ySpeed>
+    <amplitude>100</amplitude>
+    <freq>0.2</freq>
+    <isStatic>true</isStatic>
+    <isAttacking>true</isAttacking>
+    <swingX>false</swingX>
+    <swingY>true</swingY>
+    <firerate>5</firerate>
+    <maxHealth>30</maxHealth>
+    <points>90</points>
+    <attackdmg>22</attackdmg>
+    <kollisionsschaden>33</kollisionsschaden>
+    <dmgOnCollisionP>0</dmgOnCollisionP>
+    <dmgOnCollisionE>0</dmgOnCollisionE>
+     <sounds>
+      <hit filename="\\Sound\\splash.wav"/>
+      <death filename="\\Sound\\splash.wav"/>
+    </sounds>
+  </Bot_Seeigel>
+  
+  <Bot_Seepferd>
+    <xSpeed>0</xSpeed>
+    <ySpeed>0</ySpeed>
+    <amplitude>100</amplitude>
+    <freq>0.2</freq>
+    <isStatic>false</isStatic>
+    <isAttacking>true</isAttacking>
+    <swingX>false</swingX>
+    <swingY>true</swingY>
+    <firerate>2</firerate>
+    <maxHealth>50</maxHealth>
+    <points>35</points>
+    <attackdmg>10</attackdmg>
+    <kollisionsschaden>20</kollisionsschaden>
+    <dmgOnCollisionP>0</dmgOnCollisionP>
+    <dmgOnCollisionE>0</dmgOnCollisionE>
+     <sounds>
+      <hit filename="\\Sound\\splash.wav"/>
+      <death filename="\\Sound\\splash.wav"/>
+    </sounds>
+  </Bot_Seepferd>
+  
+  <Bot_Seestern>
+    <xSpeed>100</xSpeed>
+    <ySpeed>0</ySpeed>
+    <amplitude>0</amplitude>
+    <freq>0</freq>
+    <isStatic>false</isStatic>
+    <isAttacking>false</isAttacking>
+    <swingX>false</swingX>
+    <swingY>true</swingY>
+    <firerate>0</firerate>
+    <maxHealth>15</maxHealth>
+    <points>25</points>
+    <attackdmg>12</attackdmg>
+    <kollisionsschaden>16</kollisionsschaden>
+    <dmgOnCollisionP>0</dmgOnCollisionP>
+    <dmgOnCollisionE>0</dmgOnCollisionE>
+     <sounds>
+      <hit filename="\\Sound\\splash.wav"/>
+      <death filename="\\Sound\\splash.wav"/>
+    </sounds>
+  </Bot_Seestern>
+  
+  <Bot_stat_Boot>
+    <xSpeed>0</xSpeed>
+    <ySpeed>0</ySpeed>
+    <amplitude>100</amplitude>
+    <freq>0.2</freq>
+    <isStatic>true</isStatic>
+    <isAttacking>true</isAttacking>
+    <swingX>false</swingX>
+    <swingY>true</swingY>
+    <firerate>2.9</firerate>
+    <maxHealth>10</maxHealth>
+    <points>30</points>
+    <attackdmg>15</attackdmg>
+    <kollisionsschaden>40</kollisionsschaden>
+    <dmgOnCollisionP>20</dmgOnCollisionP>
+    <dmgOnCollisionE>0</dmgOnCollisionE>
+    <sounds>
+      	<hit filename="\\Sound\\splash.wav"/>
+      	<death filename="\\Sound\\splash.wav"/>
+    </sounds>
+  </Bot_stat_Boot>
+
+  <Bot_Schwarm>
+    <xSpeed>50</xSpeed>
+    <ySpeed>0</ySpeed>
+    <amplitude>10</amplitude>
+    <freq>0.7</freq>
+    <isStatic>false</isStatic>
+    <isAttacking>false</isAttacking>
+    <swingX>false</swingX>
+    <swingY>true</swingY>
+    <firerate>0</firerate>
+    <maxHealth>5</maxHealth>
+    <points>5</points>
+    <attackdmg>10</attackdmg>
+    <kollisionsschaden>4</kollisionsschaden>
+    <dmgOnCollisionP>20</dmgOnCollisionP>
+    <dmgOnCollisionE>0</dmgOnCollisionE>
+     <sounds>
+      <hit filename="\\Sound\\splash.wav"/>
+      <death filename="\\Sound\\splash.wav"/>
+    </sounds>
+  </Bot_Schwarm>
+  
+   <default>
+    <xSpeed>50</xSpeed>
+    <ySpeed>0</ySpeed>
+    <amplitude>20</amplitude>
+    <freq>0.7</freq>
+    <isStatic>false</isStatic>
+    <isAttacking>true</isAttacking>
+    <swingX>false</swingX>
+    <swingY>true</swingY>
+    <firerate>2</firerate>
+    <maxHealth>20</maxHealth>
+    <points>15</points>
+    <attackdmg>10</attackdmg>
+    <kollisionsschaden>11</kollisionsschaden>
+    <dmgOnCollisionP>20</dmgOnCollisionP>
+    <dmgOnCollisionE>0</dmgOnCollisionE>
+     <sounds>
+      <hit filename="\\Sound\\splash.wav"/>
+      <death filename="\\Sound\\splash.wav"/>
+    </sounds>
+  </default>
+</bot>

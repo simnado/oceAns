@@ -1,0 +1,29 @@
+Stachel (je)
+Breite:	15
+Höhe:		15
+Frames:	1
+
+Flamme_0, 180
+Breite:	47
+Höhe:		15
+Frames:	3
+
+Flamme_90, 270
+Breite:	15
+Höhe:		47
+Frames:	3
+
+Flamme_45, 135, 225, 315
+Breite:	35
+Höhe:		35
+Frames:	3
+
+Ball normal
+Breite:	16
+Höhe:		16
+Frames:	2
+
+Ball gross
+Breite:	24
+Höhe:		24
+Frames:	2

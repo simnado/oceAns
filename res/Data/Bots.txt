@@ -1,0 +1,112 @@
+Name: 	Aal
+ID:	0
+Datei: 	Aal.png
+Breite: 70
+Höhe: 	27
+Frames: 3
+
+
+Name: 	Hai
+ID:	1
+Datei: 	Hai.png
+Breite:	58
+Höhe:	38	
+Frames:	16
+
+Name:	Kugelfisch
+ID:	2
+Datei: 	Kugelfisch.png
+Breite:	48
+Höhe: 	55
+Frames:	6
+
+Name:	Miene
+ID:	3
+Datei: 	Miene.png
+Breite:	32
+Höhe: 	32
+Frames:	4 
+
+Name: 	mov_Boot
+ID:	4
+Datei: 	Uboot.png
+Breite:	85
+Höhe:	57
+Frames:	3
+
+Name:	Qualle
+ID:	5
+Datei: 	Qualle.png
+Breite:	59
+Höhe: 	52
+Frames:	6
+
+Name:	Schlange
+ID:	6
+Datei: 	Schlange_neu.png
+Breite: 67
+Höhe: 	27
+Frames: 6
+
+Name:	Schwertfisch
+ID:	7
+Datei: 	Schwertfisch.png
+Breite:	66
+Höhe:	50
+Frames:	8
+
+Name:	Seeigel
+ID:	8
+Datei: 	Seeigel.png
+Breite:	45
+Höhe: 	36
+Frames: 7
+
+Name:	Seepferd
+ID:	9
+Datei: 	Seepferd.png
+Breite:	40
+Höhe:	44
+Frames:	6
+
+Name: 	stat_Boot
+ID:	10
+Datei: 	Boot.png
+Breite:	62
+Höhe:	57
+Frames:	3
+
+Name:	Meerjungfrau
+ID:	11
+Datei: 	Meerjungfrau.png
+Breite:	76
+Höhe:	78
+Frames:	4
+
+Name:	Muschel
+ID:	12
+Datei: 	Muschel.png
+Breite:	37
+Höhe:	46
+Frames:	16
+
+Name:	Seestern
+ID:	13
+Datei: 	Seestern.png
+Breite:	30
+Höhe:	36
+Frames: 9
+
+Name:	Schlange_klein
+ID:	14
+Datei: 	Schlange_neu_klein.png
+Breite: 50
+Höhe: 	20
+Frames: 6
+
+Name:	Schwarm
+ID:	15
+Datei: 	Schwarm.png
+Breite: 18
+Höhe: 	19
+Frames: 8

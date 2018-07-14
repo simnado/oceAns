@@ -1,0 +1,191 @@
+Miene
+Datei: Miene.png
+Höhe: 	32
+Breite:	32
+Frames:	4 
+
+Augenfisch
+Datei: Augenfisch.png
+Höhe: 	16
+Breite:	59
+Frames:	3
+
+Blumenkohlfisch
+Datei: Blumenkohlfisch.png
+Höhe:		23
+Breite:	42
+Frames:	3
+
+Qualle
+Datei: Qualle.png
+Höhe: 	52
+Breite:	59
+Frames:	6
+
+Kugelfisch
+Datei: Kugelfisch.png
+Höhe: 	55
+Breite:	48
+Frames:	6
+
+Seepferd
+Datei: Seepferd.png
+Höhe:		44
+Breite:	40
+Frames:	6
+
+Schwarm
+Datei: Schwarm.png
+Höhe:		19
+Breite:	18
+Frames:	8
+
+Schwertfisch
+Datei: Schwertfisch.png
+Höhe:		50
+Breite:	66
+Frames:	8
+
+Wal
+Datei:Wal.png
+Höhe:		34
+Breite:	103
+Frames:	2
+
+Aal
+Datei: Aal.png
+Höhe: 27
+Breite: 70
+Frames: 3
+
+Schlange
+Datei: Schlange.png
+Höhe: 27
+Breite: 67
+Frames: 6
+
+Schlange_klein
+Datei: Schlange_klein.png
+Höhe: 20
+Breite: 50
+Frames: 6
+
+U-Boot grün
+Datei: Uboot_gruen.png
+Höhe: 69
+Breite: 72
+Frames: 3
+
+U-Boot rot
+Datei: Uboot_rot.png
+Höhe: 57
+Breite: 80
+Frames: 3
+
+Rochen
+Datei: Rochen.png
+Höhe:		19
+Breite:	57	
+Frames:	6
+
+DreiAuge
+Datei: DreiAuge.png
+Höhe:		26
+Breite:	59	
+Frames:	2
+
+GlubschAuge
+Datei: GlubschAuge.png
+Höhe:		24
+Breite:	32	
+Frames:	3
+
+Grinser
+Datei: Grinser.png
+Höhe:		23
+Breite:	30	
+Frames:	2
+
+Hai
+Datei: Hai.png
+Höhe:		38
+Breite:	58	
+Frames:	16
+
+Knochenhai
+Datei: Knochenhai.png
+Höhe:		19
+Breite:	42	
+Frames:	4
+
+Zitronenfisch
+Datei: ZitronenFisch.png
+Höhe:		22
+Breite:	27
+Frames:	2
+
+Springfisch
+Datei: SpringFisch.png
+Höhe:		33
+Breite:	75
+Frames:	2
+
+Blaufisch
+Datei: BlauFisch.png
+Höhe:		24
+Breite:	44
+Frames:	4
+
+Knutschfisch
+Datei: KnutschFisch.png
+Höhe:		23
+Breite:	46
+frames:	3
+
+Seestern
+Datei: Seestern.png
+Höhe:		36
+Breite:	30
+Frames: 9
+
+Rotfisch
+Datei: RotFisch.png
+Höhe:		28
+Breite:	50
+Frames:	3
+
+Geistfisch
+Datei: GeistFisch.png
+Höhe:		19
+Breite:	21
+Frames: 3
+
+Boot
+Datei: Boot.png
+Höhe:		57
+Breite:	62
+Frames:	3
+
+Muschel
+Datei: Muschel.png
+Höhe:		46
+Breite:	37
+Frames:	16
+
+Seeigel
+Datei: Seeigel.png
+Höhe: 	24
+Breite:	32
+Frames: 2
+
+Explosion
+Datei: Explosion.png
+Höhe: 	76
+Breite:	70
+Frames: 17
+
+Meerjungfrau
+Datei: Meerjungfrau.png
+Höhe:		78
+Breite:	76
+Frames:	4

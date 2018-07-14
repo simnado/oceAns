@@ -1,0 +1,5 @@
+.settings
+.idea
+cmake-build-debug
+Debug
+*.exe

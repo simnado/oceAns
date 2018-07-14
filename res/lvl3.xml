@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level>
+	<tileset filename="lvl3.lvl"/>
+	<sounds>
+		<soundtrack filename="\\Sound\\Upsidedown.mp3"/>
+	</sounds>
+	<layer filename="underwater.jpg">
+		<scrollSpeed>1.2</scrollSpeed>
+	</layer>
+	<upperlayer filename="">
+		<scrollSpeed>0</scrollSpeed>
+	</upperlayer>
+	<scoreBoard filename="digits21818.png">
+		<xPos>778</xPos>
+		<yPos>10</yPos>
+		<digitWidth>18</digitWidth>
+		<digitHeight>18</digitHeight>
+	</scoreBoard>
+	<lifeBoard filename="digits1818.png">
+		<xPos>10</xPos>
+		<yPos>10</yPos>
+		<digitWidth>18</digitWidth>
+		<digitHeight>18</digitHeight>
+	</lifeBoard>
+	<player filename="anne1_klein.png">
+		<numFrames>3</numFrames>
+		<frameWidth>63</frameWidth>
+		<frameHeight>60</frameHeight>
+		<positionX>58</positionX>
+		<positionY>220</positionY>
+		<jumpForceY>0</jumpForceY>
+		<moveForceX>0</moveForceX>
+		<maxVelRun>0</maxVelRun>
+		<maxVelFall>0</maxVelFall>
+		<fps>12</fps>
+		<sounds>
+			<shoot filename="\\Sound\\bubbleshot.wav"/>
+			<death filename=".wav"/>
+			<hit filename=".wav"/>
+		</sounds>
+	</player>
+	<evolve filename="anne2_klein.png">
+		<numFrames>3</numFrames>
+		<frameWidth>90</frameWidth>
+		<frameHeight>85</frameHeight>
+		<positionX>58</positionX>
+		<positionY>220</positionY>
+		<jumpForceY>0</jumpForceY>
+		<moveForceX>0</moveForceX>
+		<maxVelRun>0</maxVelRun>
+		<maxVelFall>0</maxVelFall>
+		<fps>6</fps>
+		<sounds>
+			<shoot filename="\\Sound\\bubbleshot.wav"/>
+			<death filename=".wav"/>
+			<hit filename=".wav"/>
+		</sounds>
+	</evolve>
+	<bot>
+		<type>11</type>
+		<positionX>1376</positionX>
+		<positionY>748</positionY>
+		<fps>8</fps>
+	</bot>
+	<bot>
+		<type>4</type>
+		<positionX>1163</positionX>
+		<positionY>559</positionY>
+		<fps>8</fps>
+	</bot>
+	<bot>
+		<type>2</type>
+		<positionX>973</positionX>
+		<positionY>316</positionY>
+		<fps>8</fps>
+	</bot>
+	<bot>
+		<type>16</type>
+		<positionX>1314</positionX>
+		<positionY>74</positionY>
+		<fps>8</fps>
+	</bot>
+	<bot>
+		<type>15</type>
+		<positionX>751</positionX>
+		<positionY>462</positionY>
+		<fps>8</fps>
+	</bot>
+	<bot>
+		<type>15</type>
+		<positionX>758</positionX>
+		<positionY>390</positionY>
+		<fps>8</fps>
+	</bot>
+	<bot>
+		<type>3</type>
+		<positionX>2182</positionX>
+		<positionY>709</positionY>
+		<fps>8</fps>
+	</bot>
+	<bot sprite="..\\res\\Data\\Default_Bots\\Augenfisch.spr">
+		<positionX>2564</positionX>
+		<positionY>43</positionY>
+		<fps>8</fps>
+	</bot>
+	<bot sprite="..\\res\\Data\\Default_Bots\\BlauFisch.spr">
+		<positionX>2541</positionX>
+		<positionY>639</positionY>
+		<fps>8</fps>
+	</bot>
+	<bot sprite="..\\res\\Data\\Default_Bots\\Blumenkohlfisch.spr">
+		<positionX>2531</positionX>
+		<positionY>456</positionY>
+		<fps>8</fps>
+	</bot>
+	<bot sprite="..\\res\\Data\\Default_Bots\\DreiAuge.spr">
+		<positionX>2571</positionX>
+		<positionY>556</positionY>
+		<fps>8</fps>
+	</bot>
+	<bot sprite="..\\res\\Data\\Default_Bots\\GeistFisch.spr">
+		<positionX>2533</positionX>
+		<positionY>17</positionY>
+		<fps>8</fps>
+	</bot>
+	<bot sprite="..\\res\\Data\\Default_Bots\\GlubschAuge.spr">
+		<positionX>2545</positionX>
+		<positionY>66</positionY>
+		<fps>8</fps>
+	</bot>
+	<bot sprite="..\\res\\Data\\Default_Bots\\Grinser.spr">
+		<positionX>2540</positionX>
+		<positionY>109</positionY>
+		<fps>8</fps>
+	</bot>
+	<bot sprite="..\\res\\Data\\Default_Bots\\Knochenhai.spr">
+		<positionX>2526</positionX>
+		<positionY>157</positionY>
+		<fps>8</fps>
+	</bot>
+	<bot sprite="..\\res\\Data\\Default_Bots\\KnutschFisch.spr">
+		<positionX>2513</positionX>
+		<positionY>208</positionY>
+		<fps>8</fps>
+	</bot>
+	<bot sprite="..\\res\\Data\\Default_Bots\\Nyan.spr">
+		<positionX>2580</positionX>
+		<positionY>252</positionY>
+		<fps>8</fps>
+	</bot>
+	<bot sprite="..\\res\\Data\\Default_Bots\\Rochen.spr">
+		<positionX>2522</positionX>
+		<positionY>314</positionY>
+		<fps>8</fps>
+	</bot>
+	<bot sprite="..\\res\\Data\\Default_Bots\\RotFisch.spr">
+		<positionX>2589</positionX>
+		<positionY>361</positionY>
+		<fps>8</fps>
+	</bot>
+	<bot sprite="..\\res\\Data\\Default_Bots\\SpringFisch.spr">
+		<positionX>2538</positionX>
+		<positionY>411</positionY>
+		<fps>8</fps>
+	</bot>
+	<bot sprite="..\\res\\Data\\Default_Bots\\Uboot_rot.spr">
+		<positionX>2575</positionX>
+		<positionY>478</positionY>
+		<fps>8</fps>
+	</bot>
+	<bot sprite="..\\res\\Data\\Default_Bots\\Wal.spr">
+		<positionX>2539</positionX>
+		<positionY>600</positionY>
+		<fps>8</fps>
+	</bot>
+	<bot sprite="..\\res\\Data\\Default_Bots\\ZitronenFisch.spr">
+		<positionX>2509</positionX>
+		<positionY>660</positionY>
+		<fps>8</fps>
+	</bot>
+	<stone filename="stone.png">
+		<numFrames>1</numFrames>
+		<frameWidth>24</frameWidth>
+		<frameHeight>24</frameHeight>
+		<positionX>1101</positionX>
+		<positionY>462</positionY>
+		<fps>8</fps>
+		<sounds>
+			<collect filename="\\Sound\\LOZ_Shield.wav"/>
+		</sounds>
+	</stone>
+	<lightning filename="lightning.png">
+		<numFrames>10</numFrames>
+		<frameWidth>24</frameWidth>
+		<frameHeight>24</frameHeight>
+		<positionX>1046</positionX>
+		<positionY>459</positionY>
+		<fps>5</fps>
+		<sounds>
+			<collect filename="\\Sound\\LOZ_Shield.wav"/>
+		</sounds>
+	</lightning>
+	<lightning filename="lightning.png">
+		<numFrames>10</numFrames>
+		<frameWidth>24</frameWidth>
+		<frameHeight>24</frameHeight>
+		<positionX>558</positionX>
+		<positionY>603</positionY>
+		<fps>5</fps>
+		<sounds>
+			<collect filename="\\Sound\\LOZ_Shield.wav"/>
+		</sounds>
+	</lightning>
+	<heart filename="heart.png">
+		<numFrames>8</numFrames>
+		<frameWidth>27</frameWidth>
+		<frameHeight>24</frameHeight>
+		<positionX>883</positionX>
+		<positionY>81</positionY>
+		<fps>5</fps>
+		<sounds>
+			<collect filename="\\Sound\\LOZ_Shield.wav"/>
+		</sounds>
+	</heart>
+	<heart filename="heart.png">
+		<numFrames>8</numFrames>
+		<frameWidth>27</frameWidth>
+		<frameHeight>24</frameHeight>
+		<positionX>626</positionX>
+		<positionY>79</positionY>
+		<fps>5</fps>
+		<sounds>
+			<collect filename="\\Sound\\LOZ_Shield.wav"/>
+		</sounds>
+	</heart>
+	<lightning filename="lightning.png">
+		<numFrames>10</numFrames>
+		<frameWidth>24</frameWidth>
+		<frameHeight>24</frameHeight>
+		<positionX>1148</positionX>
+		<positionY>461</positionY>
+		<fps>5</fps>
+		<sounds>
+			<collect filename="\\Sound\\LOZ_Shield.wav"/>
+		</sounds>
+	</lightning>
+	<ending filename="crystal.png">
+		<numFrames>8</numFrames>
+		<frameWidth>48</frameWidth>
+		<frameHeight>48</frameHeight>
+		<positionX>2774</positionX>
+		<positionY>498</positionY>
+		<fps>5</fps>
+		<sounds>
+			<collect filename="\\Sound\\LOZ_Shield.wav"/>
+		</sounds>
+	</ending>
+	<coin filename="new_coin.png">
+		<numFrames>10</numFrames>
+		<frameWidth>24</frameWidth>
+		<frameHeight>24</frameHeight>
+		<positionX>2048</positionX>
+		<positionY>758</positionY>
+		<fps>0</fps>		
+		<sounds>
+			<collect filename="\\Sound\\LOZ_Shield.wav"/>
+		</sounds>
+	</coin>
+	<nextlevel filename=""/>
+</level>
